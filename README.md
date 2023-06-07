@@ -17,7 +17,7 @@ allprojects {
 ```gradle
 
 dependencies {
-	        implementation 'com.github.emandiraviteja:RavlalCircleImageView:Tag'
+	        implementation 'com.github.emandiraviteja:RavlalCircleImageView:1.0'
 	}
   
  ```
